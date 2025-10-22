@@ -1,0 +1,46 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: #18cece;
+  margin: 0;
+  padding: 0;
+}
+.cv-container {
+  width: 70%;
+  margin: 40px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+header {
+  text-align: center;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 20px;
+}
+.profile-img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+}
+h1 {
+  margin: 10px 0 5px;
+}
+h2 {
+  color: #333;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+section {
+  margin: 25px 0;
+}
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
